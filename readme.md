@@ -8,5 +8,7 @@ A Python Script to Query a Solr Instance and save the returned query results int
 ####Format for the Input Query File:
 * One query per line
 * xxx QueryText, where xxx is the query number and QueryText is the text that needs to be queried to Solr.
+
+
 ####Credits:
 Credits to Ruhan Sa, who was the TA for the Information Retrieval course in Fall 2015	for providing the initial code to query Solr.
